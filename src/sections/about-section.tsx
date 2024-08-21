@@ -1,11 +1,7 @@
 import Image from "next/image";
 import React from "react";
 
-import Profile from "../../public/Profile.png";
-import { Button } from "@nextui-org/react";
-import Link from "next/link";
-import { FaSkype } from "react-icons/fa6";
-
+import Profile from "../../public/profile.png";
 const quality: { title: string; text: string }[] = [
   {
     title: "Organization",
